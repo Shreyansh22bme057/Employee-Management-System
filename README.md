@@ -21,3 +21,15 @@ A lightweight, modern web application for managing employee information, built u
 - **Linting:** ESLint with React + Hooks support
 
 ---
+
+## 📁 Project Structure
+
+.
+├── src/ # React components & app logic
+├── public/ # Static assets
+├── .gitignore
+├── index.html
+├── vite.config.js # Vite configuration
+├── tailwind.config.js # Tailwind CSS setup
+├── postcss.config.js # PostCSS plugins
+├── package.json # Project metadata and scripts
