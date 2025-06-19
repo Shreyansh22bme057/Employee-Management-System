@@ -24,7 +24,6 @@ A lightweight, modern web application for managing employee information, built u
 
 ## 📁 Project Structure
 
-.
 -├── src/ # React components & app logic
 -├── public/ # Static assets
 -├── .gitignore
